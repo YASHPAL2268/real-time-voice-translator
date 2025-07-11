@@ -47,7 +47,7 @@ language_codes = {
     "Tamil": "ta",
     "Telugu": "te",
     "Kannada": "kn",
-    "Gujarati": "gu",
+    "Gujarati": "gt",
     "Punjabi": "pa"
 }
 
