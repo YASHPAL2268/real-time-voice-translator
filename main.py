@@ -21,7 +21,7 @@ win.iconphoto(False, icon)
 # Labels and text boxes
 input_label = tk.Label(win, text="Recognized Text ⮯")
 input_label.pack()
-input_text = tk.Text(win, height=5, width=50)
+input_text = tk.Text(win, height=5, width=51)
 input_text.pack()
 
 output_label = tk.Label(win, text="Translated Text ⮯")
