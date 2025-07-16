@@ -46,7 +46,7 @@ language_codes = {
     "Tamil": "ta",
     "Telugu": "te",
     "Kannada": "kn",
-    "Gujarati": "gu",
+    "Gujarati": "gt",
     "Punjabi": "pa"
 }
 language_names = list(language_codes.keys())
